@@ -1,2 +1,2 @@
 # nautilus-seeder
-Self-replicating spacecraft
+Smi2le. Self-replicating spacecraft
