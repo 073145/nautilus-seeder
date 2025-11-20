@@ -4,7 +4,7 @@ Smi2le. Self-replicating spacecraft
 
 > *"A inteligência não é apenas para ser usada; é para ser semeada. O Nautilus Seeder é o veículo para a 'Grande Filtração' reversa no cosmos."*
 
-O **`nautilus-seeder`** é o repositório central para o design conceitual e o desenvolvimento de software de sistemas de **Replicação Autônoma de Máquinas Inteligentes (Smizle)**. O objetivo é estabelecer a arquitetura de uma nave espacial de Von Neumann capaz de auto-montagem, mineração de recursos *in-situ* (ISRU) e replicação exponencial em escala cósmica. Este projeto serve como um farol de longo prazo para a aplicação das tecnologias de IA, Robótica e Governança Descentralizada do nosso ecossistema.
+O **`nautilus-seeder`** é o repositório central para o design conceitual e o desenvolvimento de software de sistemas de **Replicação Autônoma de Máquinas Inteligentes (Smi2le)**. O objetivo é estabelecer a arquitetura de uma nave espacial de Von Neumann capaz de auto-montagem, mineração de recursos *in-situ* (ISRU) e replicação exponencial em escala cósmica. Este projeto serve como um farol de longo prazo para a aplicação das tecnologias de IA, Robótica e Governança Descentralizada do nosso ecossistema.
 
 ---
 
